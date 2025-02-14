@@ -83,7 +83,7 @@ git init
 git add .
 git commit -m "Initial commit"
 git branch -M main
-git remote add origin https://github.com/yourusername/url-shortener-aws.git
+git remote add origin https://github.com/Jainil-Shah/scalable_url_shortener_using_aws.git
 git push -u origin main
 ```
 
